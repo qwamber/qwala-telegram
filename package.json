@@ -1,0 +1,16 @@
+{
+  "name": "qwala-telegram",
+  "version": "1.0.0",
+  "description": "a Telegram bot for using Qwa.la",
+  "main": "index.js",
+  "scripts": {
+      "start": "node index.js",
+  },
+  "author": "Marco Burstein <marco@marco.how>",
+  "license": "GPL-3.0-only",
+  "dependencies": {
+    "qwala": "^1.0.2",
+    "telegraf": "^3.25.5",
+    "url-regex": "^4.1.1"
+  }
+}

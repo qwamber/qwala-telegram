@@ -1,0 +1,6 @@
+{
+    "command": "qwala",
+    "username": "QwalaBot",
+    "token": "<put your own Telegram Bot Token here>",
+    "urlPrefix": "http://qwa.la/"
+}
