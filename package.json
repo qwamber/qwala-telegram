@@ -4,7 +4,7 @@
   "description": "a Telegram bot for using Qwa.la",
   "main": "index.js",
   "scripts": {
-      "start": "node index.js",
+      "start": "node index.js"
   },
   "author": "Marco Burstein <marco@marco.how>",
   "license": "GPL-3.0-only",
